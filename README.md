@@ -10,30 +10,33 @@
   - ⚡ Fun fact: I look like a Harry Potter.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Akshaykumar2508" target="blank"><i align="center" class="devicon-twitter-original" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/Akshaykumar2508/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Renato_Resabala" height="40" width="60" ></i>
-</a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshaykumar2508&label=Profile%20views&color=0e75b6&style=flat" alt="RResabala2015" /> </p>
+<div align="center"> 
+  <a href="mailto:akshayjha02528@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/akshay-kumar-706a57232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Akshaykumar2508" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
 
 
 ------
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshaykumar2508&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Akshay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshaykumar2508&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/Akshaykumar2508/github-readme-activity-graph)
 
 <div align="center">
   <a href="https://github.com/Akshaykumar2508">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshaykumar2508&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshaykumar2508&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshaykumar2508&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akshaykumar2508"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshaykumar2508&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Akshaykumar2508"/>
   </a>
 </div>
 <p align="center">
   <a href="https://github.com/Akshaykumar2508">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaykumar2508&&theme=tokyonight" alt="RResabala2015" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaykumar2508&&theme=tokyonight" alt="Akshaykumar2508" />
   </a>
 </p>
 
