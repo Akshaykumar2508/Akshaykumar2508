@@ -50,7 +50,7 @@
 ------
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git,discord,atom,anaconda,aws,bootstrap,cloudfare,docker,eclipse,gmail,idea,linux,mongodb,pycharm,unity" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git,discord,atom,anaconda,aws,bootstrap,docker,eclipse,gmail,idea,linux,mongodb,pycharm,unity" />
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,mysql,nodejs,py,react,tensorflow" /><br>
 </div>
 
