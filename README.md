@@ -42,34 +42,9 @@
 
 ------
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=php" alt="PHP"/>
-  </div>
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=vue" alt="Vue"/>
-  </div>
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-  </div>
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
-  </div>
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=selenium" alt="Selenium"/>
-  </div>
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=git,github" alt="Git & GitHub"/>
-  </div>
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>
-  </div>
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
-  </div>
-  <div>
-    <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu" alt="Windows & Ubuntu"/>
-  </div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git,discord,atom,anaconda,aws,bootstrap,cloudfare,docker,eclipse,gmail,idea,linux,mongodb,pycharm,unity" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,mysql,nodejs,py,react,tensorflow" /><br>
 </div>
 
 
