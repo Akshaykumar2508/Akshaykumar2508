@@ -44,42 +44,34 @@
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
   <div>
-    <strong>Backend:</strong>
     <img height="40" src="https://skillicons.dev/icons?i=php" alt="PHP"/>
   </div>
   <div>
-    <strong>Frontend:</strong>
     <img height="40" src="https://skillicons.dev/icons?i=vue" alt="Vue"/>
   </div>
   <div>
-    <strong>Database:</strong>
     <img height="40" src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
   </div>
   <div>
-    <strong>DevOps:</strong>
     <img height="40" src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
   </div>
   <div>
-    <strong>Automated test:</strong>
     <img height="40" src="https://skillicons.dev/icons?i=selenium" alt="Selenium"/>
   </div>
   <div>
-    <strong>Version Control:</strong>
     <img height="40" src="https://skillicons.dev/icons?i=git,github" alt="Git & GitHub"/>
   </div>
   <div>
-    <strong>IDEs:</strong>
     <img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>
   </div>
   <div>
-    <strong>Other Tools:</strong>
     <img height="40" src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
   </div>
   <div>
-    <strong>Operating Systems:</strong>
     <img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu" alt="Windows & Ubuntu"/>
   </div>
 </div>
+
 
 
 ------
