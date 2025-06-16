@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Akshay+Kumar!;" />
 </h1>
 
@@ -8,12 +8,11 @@
 
 <div align="center">
  
- I'm on a mission to create technology solutions that connect the digital world with real life!  I'm passionate about writing clean, maintainable code and design with users in mind, thriving in environments that love innovation and continuous professional growth. Let's make technology shine! 🚀
-
+I love building technology that helps people in real life. I enjoy writing clean code and creating designs that are easy to use. I'm always excited to learn and grow, and I enjoy working in teams that like new ideas. Let’s build something great! 🚀
 
   - 🔭I’m currently pursuing B.Tech (KIIT University).
-  - 🌱 I’m currently learning.**
-  - ⚡ Fun fact: I look like a Harry Potter.**
+  - 🌱 I’m currently learning.
+  - ⚡ Fun fact: I like a Harry Potter Series.
 
  </div>
 <h3 align="left">Connect with me:</h3>
