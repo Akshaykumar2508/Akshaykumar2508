@@ -3,6 +3,7 @@
 </h1>
 
 <div align="center">
+  <!-- Profile Views Counter -->
   ![Profile views](https://komarev.com/ghpvc/?username=Akshaykumar2508&color=blue)
 </div>
 
@@ -15,7 +16,7 @@ I love building technology that helps people in real life. I enjoy writing clean
 
   - 🔭 I’m currently pursuing B.Tech (KIIT University).
   - 🌱 I’m currently learning.
-  - ⚡ Fun fact: I like a Harry Potter Series.
+  - ⚡ Fun fact: I like the Harry Potter Series.
 </div>
 
 <h3 align="left">Connect with me:</h3>
@@ -46,7 +47,9 @@ I love building technology that helps people in real life. I enjoy writing clean
 
 <h3 align="left">Grades / Achievements:</h3>
 <div align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Akshaykumar2508&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Akshaykumar2508&theme=tokyonight" />
+  </a>
 </div>
 
 ------
@@ -85,6 +88,7 @@ I love building technology that helps people in real life. I enjoy writing clean
 
 ------
 
+<!-- Snake Animation -->
 ![snake gif](https://github.com/Akshaykumar2508/Akshaykumar2508/blob/output/github-snake-dark.svg)
 
 ------
