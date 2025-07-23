@@ -78,15 +78,16 @@ I love building technology that helps people in real life. I enjoy writing clean
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python: Programming language" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React: JavaScript library for UI" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow: ML framework" /></a>
-  <!-- Custom skills: RAG, AWS Architecture, Big Data Pipeline -->
+  
+  <!-- Custom skills with improved icons -->
   <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank">
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-search-artificial-intelligence-flaticons-lineal-color-flat-icons.png" alt="RAG" width="40" title="Retrieval-Augmented Generation: Combines LLMs with external data sources for better answers" />
+    <img src="https://raw.githubusercontent.com/Akshaykumar2508/Akshaykumar2508/main/icons/rag.png" alt="RAG" width="40" title="Retrieval-Augmented Generation: Combines LLMs with external data sources" />
   </a>
   <a href="https://aws.amazon.com/architecture/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/cloud-architecture.png" alt="AWS Architecture" width="40" title="AWS Architecture: Best practices and patterns for cloud solutions" />
+    <img src="https://raw.githubusercontent.com/Akshaykumar2508/Akshaykumar2508/main/icons/aws-architecture.png" alt="AWS Architecture" width="40" title="AWS Architecture: Best practices for cloud solutions" />
   </a>
   <a href="https://aws.amazon.com/big-data/datalakes-and-analytics/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/big-data.png" alt="Big Data Pipeline" width="40" title="Big Data Pipeline: End-to-end data processing and analytics solutions" />
+    <img src="https://raw.githubusercontent.com/Akshaykumar2508/Akshaykumar2508/main/icons/big-data.png" alt="Big Data Pipeline" width="40" title="Big Data Pipeline: End-to-end data processing and analytics" />
   </a>
 </div>
 
