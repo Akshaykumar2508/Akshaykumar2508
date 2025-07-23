@@ -49,6 +49,7 @@ I love building technology that helps people in real life. I enjoy writing clean
 ------
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
+  <!-- Standard skillicons.dev icons, clickable, URL behind icon -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML: Markup language for web pages" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS: Style sheets for web pages" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript: Programming language of the web" /></a>
@@ -79,13 +80,13 @@ I love building technology that helps people in real life. I enjoy writing clean
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow: ML framework" /></a>
   <!-- Custom skills: RAG, AWS Architecture, Big Data Pipeline -->
   <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank">
-    <img src="https://img.shields.io/badge/RAG-Informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" alt="RAG" title="Retrieval-Augmented Generation: Combines LLMs with external data sources for better answers" />
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-search-artificial-intelligence-flaticons-lineal-color-flat-icons.png" alt="RAG" width="40" title="Retrieval-Augmented Generation: Combines LLMs with external data sources for better answers" />
   </a>
   <a href="https://aws.amazon.com/architecture/" target="_blank">
-    <img src="https://img.shields.io/badge/AWS%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Architecture" title="AWS Architecture: Best practices and patterns for cloud solutions" />
+    <img src="https://img.icons8.com/color/48/000000/cloud-architecture.png" alt="AWS Architecture" width="40" title="AWS Architecture: Best practices and patterns for cloud solutions" />
   </a>
   <a href="https://aws.amazon.com/big-data/datalakes-and-analytics/" target="_blank">
-    <img src="https://img.shields.io/badge/Big%20Data%20Pipeline-4B8BBE?style=for-the-badge&logo=apache&logoColor=white" alt="Big Data Pipeline" title="Big Data Pipeline: End-to-end data processing and analytics solutions" />
+    <img src="https://img.icons8.com/fluency/48/000000/big-data.png" alt="Big Data Pipeline" width="40" title="Big Data Pipeline: End-to-end data processing and analytics solutions" />
   </a>
 </div>
 
