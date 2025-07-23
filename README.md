@@ -49,8 +49,34 @@ I love building technology that helps people in real life. I enjoy writing clean
 ------
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vscode,github,git,discord,atom,anaconda,aws,bootstrap,docker,eclipse,gmail,idea,linux,mongodb,pycharm,unity" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,mysql,nodejs,py,react,tensorflow" /><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML: Markup language for web pages" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS: Style sheets for web pages" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript: Programming language of the web" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VSCode: Popular code editor" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub: Code hosting platform" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git: Version control system" /></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" title="Discord: Chat for communities" /></a>
+  <a href="https://atom.io/" target="_blank"><img src="https://skillicons.dev/icons?i=atom" alt="Atom" title="Atom: Hackable text editor" /></a>
+  <a href="https://www.anaconda.com/" target="_blank"><img src="https://skillicons.dev/icons?i=anaconda" alt="Anaconda" title="Anaconda: Python distribution for scientific computing" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS: Cloud computing services" /></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap: CSS framework" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker: Containerization platform" /></a>
+  <a href="https://www.eclipse.org/" target="_blank"><img src="https://skillicons.dev/icons?i=eclipse" alt="Eclipse" title="Eclipse: Java IDE" /></a>
+  <a href="https://mail.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" title="Gmail: Email service" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA: Java IDE" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux: Open-source operating system" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB: NoSQL database" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" title="PyCharm: Python IDE" /></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity: Game development engine" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" title="C: Programming language" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++: Programming language" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#: Programming language" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java: Programming language" /></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL: Relational database" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js: JavaScript runtime" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python: Programming language" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React: JavaScript library for UI" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow: ML framework" /></a>
 </div>
 
 ![snake gif](https://github.com/Akshaykumar2508/Akshaykumar2508/blob/output/github-snake-dark.svg)
