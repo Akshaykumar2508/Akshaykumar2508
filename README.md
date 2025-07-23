@@ -77,6 +77,16 @@ I love building technology that helps people in real life. I enjoy writing clean
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python: Programming language" /></a>
   <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" title="React: JavaScript library for UI" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow: ML framework" /></a>
+  <!-- Custom skills: RAG, AWS Architecture, Big Data Pipeline -->
+  <a href="https://www.pinecone.io/learn/retrieval-augmented-generation/" target="_blank">
+    <img src="https://img.shields.io/badge/RAG-Informational?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=" alt="RAG" title="Retrieval-Augmented Generation: Combines LLMs with external data sources for better answers" />
+  </a>
+  <a href="https://aws.amazon.com/architecture/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS%20Architecture-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Architecture" title="AWS Architecture: Best practices and patterns for cloud solutions" />
+  </a>
+  <a href="https://aws.amazon.com/big-data/datalakes-and-analytics/" target="_blank">
+    <img src="https://img.shields.io/badge/Big%20Data%20Pipeline-4B8BBE?style=for-the-badge&logo=apache&logoColor=white" alt="Big Data Pipeline" title="Big Data Pipeline: End-to-end data processing and analytics solutions" />
+  </a>
 </div>
 
 ![snake gif](https://github.com/Akshaykumar2508/Akshaykumar2508/blob/output/github-snake-dark.svg)
